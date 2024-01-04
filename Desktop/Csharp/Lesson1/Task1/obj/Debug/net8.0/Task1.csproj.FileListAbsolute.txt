@@ -1,0 +1,14 @@
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
