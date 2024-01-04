@@ -1,0 +1,15 @@
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.AssemblyInfoInputs.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.AssemblyInfo.cs
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.csproj.CoreCompileInputs.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.sourcelink.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/bin/Debug/net8.0/Task5
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.deps.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.runtimeconfig.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.pdb
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/refint/Task5.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.pdb
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.genruntimeconfig.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Lesson1/Task5/obj/Debug/net8.0/ref/Task5.dll
